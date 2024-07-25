@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1007,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "69.2",
+        "Precision": "0.981",
+        "Recall": "0.952",
+        "SciBERTScore": "0.9",
+        "BLEU": "0.624"
+    },
+    {
+        "id": 145,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "70.6",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "0.9",
+        "BLEU": "0.595"
+    },
+    {
+        "id": 1073,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "63.3",
+        "Precision": "0.981",
+        "Recall": "0.951",
+        "SciBERTScore": "0.8",
+        "BLEU": "0.000"
+    },
+    {
+        "id": 1094,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "50.0",
+        "Precision": "0.981",
+        "Recall": "0.951",
+        "SciBERTScore": "0.8",
+        "BLEU": "0.000"
+    },
+    {
+        "id": 1095,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "50.0",
+        "Precision": "0.981",
+        "Recall": "0.950",
+        "SciBERTScore": "0.9",
+        "BLEU": "0.017"
+    },
+    {
+        "id": 1364,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "70.3",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.700"
+    },
+    {
+        "id": 1388,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "78.4",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.666"
+    },
+    {
+        "id": 1389,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "86.6",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.842"
+    },
+    {
+        "id": 1464,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "86.5",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.750"
+    },
+    {
+        "id": 1474,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "60.0",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.569"
+    },
+    {
+        "id": 1505,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "93.0",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.800"
+    },
+    {
+        "id": 1506,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "90.5",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.879"
+    },
+    {
+        "id": 1508,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "66.7",
+        "Precision": "0.981",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.706"
+    },
+    {
+        "id": 1510,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "83.9",
+        "Precision": "0.981",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.701"
+    },
+    {
+        "id": 1519,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "53.2",
+        "Precision": "0.981",
+        "Recall": "0.950",
+        "SciBERTScore": "0.8",
+        "BLEU": "0.069"
+    },
+    {
+        "id": 1545,
+        "Model": "gpt 3.5",
+        "Shuffle Functions": "\u2713",
+        "Accuracy": "85.7",
+        "Precision": "0.980",
+        "Recall": "0.951",
+        "SciBERTScore": "1.0",
+        "BLEU": "0.911"
+    }
+]

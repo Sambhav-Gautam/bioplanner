@@ -1,0 +1,98 @@
+[
+    {
+        "model": "example",
+        "id": 1,
+        "function_precision": 1.0,
+        "recall_funcs": 1.0,
+        "precision_args": 1.0,
+        "recall_args": 0.875,
+        "args_similarity": 1.0,
+        "args_bleu": 0.875,
+        "levenshtein_distance": 3,
+        "scaled_levenshtein_distance": 0.08823529411764706
+    },
+    {
+        "model": "bioprot",
+        "id": 145,
+        "function_precision": 1.0,
+        "recall_funcs": 1.0,
+        "precision_args": 1.0,
+        "recall_args": 0.9166666666666666,
+        "args_similarity": 0.9515047073364258,
+        "args_bleu": 0.75,
+        "levenshtein_distance": 0,
+        "scaled_levenshtein_distance": 0.0
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1094,
+        "function_precision": 1.0,
+        "recall_funcs": 1.0,
+        "precision_args": 0.1111111111111111,
+        "recall_args": 1.0,
+        "args_similarity": 0.8131656050682068,
+        "args_bleu": 1.5014824983623405e-156,
+        "levenshtein_distance": 2,
+        "scaled_levenshtein_distance": 0.08333333333333333
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1073,
+        "function_precision": 1.0,
+        "recall_funcs": 1.0,
+        "precision_args": 0.75,
+        "recall_args": 0.3333333333333333,
+        "args_similarity": 0.7757920622825623,
+        "args_bleu": 3.2968473669032363e-155,
+        "levenshtein_distance": 2,
+        "scaled_levenshtein_distance": 0.06666666666666667
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1095,
+        "function_precision": 1.0,
+        "recall_funcs": 0.8888888888888888,
+        "precision_args": 0.5,
+        "recall_args": 0.6666666666666666,
+        "args_similarity": 0.8641796112060547,
+        "args_bleu": 0.016916910404576588,
+        "levenshtein_distance": 7,
+        "scaled_levenshtein_distance": 0.14583333333333334
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1364,
+        "function_precision": 1.0,
+        "recall_funcs": 1.0,
+        "precision_args": 0.7142857142857143,
+        "recall_args": 1.0,
+        "args_similarity": 0.9946120977401733,
+        "args_bleu": 0.7001982598379995,
+        "levenshtein_distance": 2,
+        "scaled_levenshtein_distance": 0.05405405405405406
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1389,
+        "function_precision": 1.0,
+        "recall_funcs": 1.0,
+        "precision_args": 1.0,
+        "recall_args": 0.95,
+        "args_similarity": 0.9910915493965149,
+        "args_bleu": 0.8418928527671102,
+        "levenshtein_distance": 1,
+        "scaled_levenshtein_distance": 0.012195121951219513
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1388,
+        "function_precision": 1.0,
+        "recall_funcs": 1.0,
+        "precision_args": 0.9375,
+        "recall_args": 1.0,
+        "args_similarity": 0.970147967338562,
+        "args_bleu": 0.666225987588962,
+        "levenshtein_distance": 6,
+        "scaled_levenshtein_distance": 0.16216216216216217
+    }
+]

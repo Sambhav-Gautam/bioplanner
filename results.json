@@ -1,0 +1,1 @@
+[{"model": "example", "id": 1, "function_precision": 1.0, "recall_funcs": 1.0, "precision_args": 1.0, "recall_args": 0.875, "args_similarity": 1.0, "args_bleu": 0.875, "levenshtein_distance": 3, "scaled_levenshtein_distance": 0.08823529411764706}]

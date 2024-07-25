@@ -1,0 +1,42 @@
+{
+    "function_precision": {
+        "mean": 0.85,
+        "standard_deviation": 0.18,
+        "average": 0.85
+    },
+    "recall_funcs": {
+        "mean": 0.84,
+        "standard_deviation": 0.2,
+        "average": 0.84
+    },
+    "precision_args": {
+        "mean": 0.68,
+        "standard_deviation": 0.31,
+        "average": 0.68
+    },
+    "recall_args": {
+        "mean": 0.86,
+        "standard_deviation": 0.19,
+        "average": 0.86
+    },
+    "args_similarity": {
+        "mean": 0.78,
+        "standard_deviation": 0.23,
+        "average": 0.78
+    },
+    "args_bleu": {
+        "mean": 0.21,
+        "standard_deviation": 0.21,
+        "average": 0.21
+    },
+    "levenshtein_distance": {
+        "mean": 0.73,
+        "standard_deviation": 0.4,
+        "average": 0.73
+    },
+    "scaled_levenshtein_distance": {
+        "mean": 0.19,
+        "standard_deviation": 0.2,
+        "average": 0.19
+    }
+}

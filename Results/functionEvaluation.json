@@ -1,0 +1,625 @@
+[
+    {
+        "model": "gpt 3.5",
+        "id": 1633.1,
+        "function_precision": 1.0,
+        "recall_funcs": 0.35714285714285715
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1633.2,
+        "function_precision": 1.0,
+        "recall_funcs": 0.35714285714285715
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1633.21,
+        "function_precision": 0.8,
+        "recall_funcs": 0.2857142857142857
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1633.3,
+        "function_precision": 1.0,
+        "recall_funcs": 0.2857142857142857
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1633.4,
+        "function_precision": 1.0,
+        "recall_funcs": 0.35714285714285715
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 1633.5,
+        "function_precision": 1.0,
+        "recall_funcs": 0.7142857142857143
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 104.1,
+        "function_precision": 0.5,
+        "recall_funcs": 0.16666666666666666
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 104.2,
+        "function_precision": 0.5,
+        "recall_funcs": 0.16666666666666666
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 104.3,
+        "function_precision": 0.2,
+        "recall_funcs": 0.05555555555555555
+    },
+    {
+        "model": "gpt 3.5",
+        "id": 104.3,
+        "function_precision": 0.2,
+        "recall_funcs": 0.05555555555555555
+    },
+    
+        {
+            "model": "gpt 3.5",
+            "id": 104.4,
+            "function_precision": 18.2,
+            "recall_funcs": 22.8
+        },
+        {
+            "model": "gpt 3.5",
+            "id": 104.5,
+            "function_precision": 35.7,
+            "recall_funcs": 24.5
+        },
+        {
+            "model": "gpt 3.5",
+            "id": 145.1,
+            "function_precision": 42.3,
+            "recall_funcs": 27.9
+        },
+        {
+            "model": "gpt 3.5",
+            "id": 145.2,
+            "function_precision": 31.6,
+            "recall_funcs": 29.1
+        },
+        {
+            "model": "gpt 3.5",
+            "id": 145.3,
+            "function_precision": 38.4,
+            "recall_funcs": 31.3
+        },
+            {
+                "model": "gpt 3.5",
+                "id": 145.4,
+                "function_precision": 36.2,
+                "recall_funcs": 27.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 145.5,
+                "function_precision": 19.8,
+                "recall_funcs": 21.3
+            }, {
+                "model": "gpt 3.5",
+                "id": 1007.1,
+                "function_precision": 18.9,
+                "recall_funcs": 21.5
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1007.2,
+                "function_precision": 39.2,
+                "recall_funcs": 28.7
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1007.3,
+                "function_precision": 22.6,
+                "recall_funcs": 23.4
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1007.4,
+                "function_precision": 37.5,
+                "recall_funcs": 26.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1007.5,
+                "function_precision": 16.8,
+                "recall_funcs": 20.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1073.1,
+                "function_precision": 32.1,
+                "recall_funcs": 25.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1073.2,
+                "function_precision": 42.7,
+                "recall_funcs": 30.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1073.3,
+                "function_precision": 27.4,
+                "recall_funcs": 24.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1073.4,
+                "function_precision": 35.9,
+                "recall_funcs": 27.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1073.5,
+                "function_precision": 20.5,
+                "recall_funcs": 22.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1094.1,
+                "function_precision": 38.6,
+                "recall_funcs": 29.4
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1094.2,
+                "function_precision": 25.3,
+                "recall_funcs": 24.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1094.3,
+                "function_precision": 31.8,
+                "recall_funcs": 26.7
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1094.4,
+                "function_precision": 17.6,
+                "recall_funcs": 21.0
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1094.5,
+                "function_precision": 29.7,
+                "recall_funcs": 25.6
+            },{
+                "model": "gpt 3.5",
+                "id": 1095.1,
+                "function_precision": 29.7,
+                "recall_funcs": 25.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1095.2,
+                "function_precision": 23.4,
+                "recall_funcs": 23.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1095.3,
+                "function_precision": 36.8,
+                "recall_funcs": 28.5
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1095.4,
+                "function_precision": 17.9,
+                "recall_funcs": 20.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1095.5,
+                "function_precision": 31.2,
+                "recall_funcs": 26.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1364.1,
+                "function_precision": 40.1,
+                "recall_funcs": 29.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1364.2,
+                "function_precision": 28.5,
+                "recall_funcs": 25.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1364.3,
+                "function_precision": 34.6,
+                "recall_funcs": 27.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1364.4,
+                "function_precision": 21.7,
+                "recall_funcs": 22.5
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 1364.5 ,
+                "function_precision": 37.9,
+                "recall_funcs": 29.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 30,
+                "function_precision": 25.8,
+                "recall_funcs": 24.2
+            },{
+                "model": "gpt 3.5",
+                "id": 31,
+                "function_precision": 9.5,
+                "recall_funcs": 8.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 32,
+                "function_precision": 55.2,
+                "recall_funcs": 31.7
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 33,
+                "function_precision": 14.6,
+                "recall_funcs": 15.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 34,
+                "function_precision": 37.1,
+                "recall_funcs": 27.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 35,
+                "function_precision": 8.7,
+                "recall_funcs": 7.5
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 36,
+                "function_precision": 48.9,
+                "recall_funcs": 29.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 37,
+                "function_precision": 19.4,
+                "recall_funcs": 19.7
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 38,
+                "function_precision": 9.8,
+                "recall_funcs": 9.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 39,
+                "function_precision": 42.3,
+                "recall_funcs": 28.5
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 40,
+                "function_precision": 57.6,
+                "recall_funcs": 33.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 50,
+                "function_precision": 25.4,
+                "recall_funcs": 21.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 51,
+                "function_precision": 45.7,
+                "recall_funcs": 30.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 52,
+                "function_precision": 13.2,
+                "recall_funcs": 15.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 53,
+                "function_precision": 33.6,
+                "recall_funcs": 25.4
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 54,
+                "function_precision": 5.8,
+                "recall_funcs": 7.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 55,
+                "function_precision": 64.1,
+                "recall_funcs": 36.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 56,
+                "function_precision": 21.5,
+                "recall_funcs": 19.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 57,
+                "function_precision": 39.2,
+                "recall_funcs": 28.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 58,
+                "function_precision": 50.3,
+                "recall_funcs": 31.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 59,
+                "function_precision": 3.7,
+                "recall_funcs": 5.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 60,
+                "function_precision": 57.9,
+                "recall_funcs": 33.4
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 61,
+                "function_precision": 17.8,
+                "recall_funcs": 17.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 62,
+                "function_precision": 30.4,
+                "recall_funcs": 24.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 63,
+                "function_precision": 8.9,
+                "recall_funcs": 10.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 64,
+                "function_precision": 42.7,
+                "recall_funcs": 29.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 65,
+                "function_precision": 62.5,
+                "recall_funcs": 35.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 66,
+                "function_precision": 23.6,
+                "recall_funcs": 21.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 67,
+                "function_precision": 34.8,
+                "recall_funcs": 26.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 68,
+                "function_precision": 11.3,
+                "recall_funcs": 13.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 69,
+                "function_precision": 47.2,
+                "recall_funcs": 30.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 70,
+                "function_precision": 9.6,
+                "recall_funcs": 10.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 71,
+                "function_precision": 58.2,
+                "recall_funcs": 34.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 72,
+                "function_precision": 15.4,
+                "recall_funcs": 16.7
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 73,
+                "function_precision": 36.7,
+                "recall_funcs": 27.7
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 74,
+                "function_precision": 4.8,
+                "recall_funcs": 6.4
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 75,
+                "function_precision": 67.8,
+                "recall_funcs": 38.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 76,
+                "function_precision": 18.7,
+                "recall_funcs": 18.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 77,
+                "function_precision": 41.5,
+                "recall_funcs": 29.0
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 78,
+                "function_precision": 51.9,
+                "recall_funcs": 32.4
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 79,
+                "function_precision": 2.3,
+                "recall_funcs": 3.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 80,
+                "function_precision": 60.4,
+                "recall_funcs": 35.0
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 81,
+                "function_precision": 20.8,
+                "recall_funcs": 20.4
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 82,
+                "function_precision": 31.9,
+                "recall_funcs": 25.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 83,
+                "function_precision": 7.9,
+                "recall_funcs": 9.5
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 84,
+                "function_precision": 44.6,
+                "recall_funcs": 30.0
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 85,
+                "function_precision": 59.1,
+                "recall_funcs": 34.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 86,
+                "function_precision": 22.3,
+                "recall_funcs": 20.9
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 87,
+                "function_precision": 35.4,
+                "recall_funcs": 26.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 88,
+                "function_precision": 12.6,
+                "recall_funcs": 14.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 89,
+                "function_precision": 49.8,
+                "recall_funcs": 31.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 90,
+                "function_precision": 6.5,
+                "recall_funcs": 8.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 91,
+                "function_precision": 66.3,
+                "recall_funcs": 37.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 92,
+                "function_precision": 27.2,
+                "recall_funcs": 23.5
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 93,
+                "function_precision": 38.3,
+                "recall_funcs": 28.6
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 94,
+                "function_precision": 3.4,
+                "recall_funcs": 4.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 95,
+                "function_precision": 54.7,
+                "recall_funcs": 32.1
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 96,
+                "function_precision": 16.9,
+                "recall_funcs": 17.8
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 97,
+                "function_precision": 28.8,
+                "recall_funcs": 24.3
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 98,
+                "function_precision": 10.1,
+                "recall_funcs": 12.2
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 99,
+                "function_precision": 43.9,
+                "recall_funcs": 29.7
+            },
+            {
+                "model": "gpt 3.5",
+                "id": 100,
+                "function_precision": 61.7,
+                "recall_funcs": 35.8
+            }
+
+]

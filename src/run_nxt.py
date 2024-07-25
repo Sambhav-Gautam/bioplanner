@@ -9,7 +9,22 @@ from evaluate_metrics import (
     get_levenshtein_distance,
 )
 
-if __name__ == "__main__":  
+def compute_accuracy(ground_truth, prediction):
+    # Compute accuracy of function assignments
+    ground_truth_funcs = ground_truth.split("\n")
+    prediction_funcs = prediction.split("\n")
+
+    correct_count = 0
+    total_functions = len(ground_truth_funcs)
+
+    for gt_func, pred_func in zip(ground_truth_funcs, prediction_funcs):
+        if gt_func.strip() == pred_func.strip():
+            correct_count += 1
+
+    accuracy = (correct_count / total_functions) * 100
+    return accuracy
+
+if __name__ == "__main__":
     evaluation_folder = "./src/to_evaluate/*.json"
     results = []
 
@@ -37,25 +52,29 @@ if __name__ == "__main__":
 
             args_bleu = get_args_bleu(ground_truth, prediction)
 
+            # Compute accuracy
+            accuracy = compute_accuracy(ground_truth, prediction)
+
+            # Define model shuffle functions
+            shuffle_functions = model_name.startswith("GPT-3.5")
+
             results.append(
                 {
-                    "model": model_name,
-                    "id": id,
-                    "function_precision": precision_funcs,
-                    "recall_funcs": recall_funcs,
-                    "precision_args": precision_args,
-                    "recall_args": recall_args,
-                    "args_similarity": args_similarity,
-                    "args_bleu": args_bleu,
-                    "levenshtein_distance": levenshtein_distance,
-                    "scaled_levenshtein_distance": scaled_levenshtein_distance,
-                    "prediction code" : prediction_code,
+                    "id" : id,
+                    "Model": model_name,
+                    "Shuffle Functions": "✓",
+                    "Accuracy": f"{accuracy:.1f}",
+                    "Precision": f"{precision_args:.1f} ",
+                    "Recall": f"{recall_args:.1f} ",
+                    "SciBERTScore": f"{args_similarity:.1f}",
+                    "BLEU": f"{args_bleu:.3f} ",
                 }
             )
 
+    # Prepare results for appending to JSON file
     results_dir = "./Results"
     os.makedirs(results_dir, exist_ok=True)
-    results_file_path = os.path.join(results_dir, "functionReterival.json")
+    results_file_path = os.path.join(results_dir, "nextstepprediction.json")
 
     if os.path.exists(results_file_path):
         with open(results_file_path, "r") as f:
@@ -67,3 +86,7 @@ if __name__ == "__main__":
 
     with open(results_file_path, "w") as f:
         json.dump(existing_results, f, indent=4)
+
+    print(f"Results appended to {results_file_path}")
+
+
