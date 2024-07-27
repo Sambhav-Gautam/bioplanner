@@ -1,5 +1,5 @@
 # Bioplanner 
-Forked Repo for BioPlanner With some Replication and some stats in the fodler: Automatic Evaluation of LLMs on Protocol Planning in Biology https://arxiv.org/abs/2310.10632
+Forked Repo for BioPlanner With some Replication and some stats in the folder: Automatic Evaluation of LLMs on Protocol Planning in Biology https://arxiv.org/abs/2310.10632
 
 # Prerequisites 
 - Conda (https://conda.io/projects/conda/en/latest/user-guide/install/macos.html#install-macos-silent)
