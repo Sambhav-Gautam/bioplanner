@@ -1,0 +1,167 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "poetry >=1.3.0,<2.0.0"
+  ],
+  "depends": [
+    "poetry-core >=1.3.0,<2.0.0",
+    "python >=3.7,<4.0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/poetry-plugin-export-1.3.1-pyhd8ed1ab_0",
+  "files": [
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/LICENSE",
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/poetry_plugin_export-1.3.1.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/poetry_plugin_export/__init__.py",
+    "lib/python3.11/site-packages/poetry_plugin_export/command.py",
+    "lib/python3.11/site-packages/poetry_plugin_export/exporter.py",
+    "lib/python3.11/site-packages/poetry_plugin_export/plugins.py",
+    "lib/python3.11/site-packages/poetry_plugin_export/walker.py",
+    "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/command.cpython-311.pyc",
+    "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/exporter.cpython-311.pyc",
+    "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/plugins.cpython-311.pyc",
+    "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/walker.cpython-311.pyc"
+  ],
+  "fn": "poetry-plugin-export-1.3.1-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/conda/pkgs/poetry-plugin-export-1.3.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "78092f3001808dbd1dbdb7166ccee64d",
+  "name": "poetry-plugin-export",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/conda/pkgs/poetry-plugin-export-1.3.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "9f8ccc75d760535f8bcea629ab52727b7b8dbd8bd415bfca7e8cc84ba70f3a25",
+        "sha256_in_prefix": "9f8ccc75d760535f8bcea629ab52727b7b8dbd8bd415bfca7e8cc84ba70f3a25",
+        "size_in_bytes": 1062
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "dcdaf0855e21e7329248144641801cb5b2aab55e387dadd77cc51822e0862928",
+        "sha256_in_prefix": "dcdaf0855e21e7329248144641801cb5b2aab55e387dadd77cc51822e0862928",
+        "size_in_bytes": 2629
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9a6925903bebe874756f4d78c6cdb7412dbe24f4c26f070f847d8c25116c08bc",
+        "sha256_in_prefix": "9a6925903bebe874756f4d78c6cdb7412dbe24f4c26f070f847d8c25116c08bc",
+        "size_in_bytes": 1515
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ed9f3fdbbb9a1c8fd4640738528c783e906143d639fe6a1d65758cc6d522e0d5",
+        "sha256_in_prefix": "ed9f3fdbbb9a1c8fd4640738528c783e906143d639fe6a1d65758cc6d522e0d5",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7b3ac9f64d04a3bb72f610fe16dd2b685eac54f4ddf8af2a777f0a3ae09b3515",
+        "sha256_in_prefix": "7b3ac9f64d04a3bb72f610fe16dd2b685eac54f4ddf8af2a777f0a3ae09b3515",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export-1.3.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "3d23823a5a3f7aaabcfa57cb6b2beef61b8c48893c91e94146b343c622fa9f66",
+        "sha256_in_prefix": "3d23823a5a3f7aaabcfa57cb6b2beef61b8c48893c91e94146b343c622fa9f66",
+        "size_in_bytes": 89
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2be64235eeedbbc8bd5098eee486ce9806e50817b54d2f648c3187807a290814",
+        "sha256_in_prefix": "2be64235eeedbbc8bd5098eee486ce9806e50817b54d2f648c3187807a290814",
+        "size_in_bytes": 168
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export/command.py",
+        "path_type": "hardlink",
+        "sha256": "d2c5a89dc2aa776047b595a552a778385c90e48f2fa67c8db77e67f9c1511e01",
+        "sha256_in_prefix": "d2c5a89dc2aa776047b595a552a778385c90e48f2fa67c8db77e67f9c1511e01",
+        "size_in_bytes": 3678
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export/exporter.py",
+        "path_type": "hardlink",
+        "sha256": "edd2a7e59575a3b8fd8c53c71c9b3895e7c97f7ec50f45f8db3c961489739cfb",
+        "sha256_in_prefix": "edd2a7e59575a3b8fd8c53c71c9b3895e7c97f7ec50f45f8db3c961489739cfb",
+        "size_in_bytes": 7264
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export/plugins.py",
+        "path_type": "hardlink",
+        "sha256": "55a47a2492d2d6a56606a3a59a3e0601aff2c157259ffe0d0b2fea82ec39566f",
+        "sha256_in_prefix": "55a47a2492d2d6a56606a3a59a3e0601aff2c157259ffe0d0b2fea82ec39566f",
+        "size_in_bytes": 957
+      },
+      {
+        "_path": "site-packages/poetry_plugin_export/walker.py",
+        "path_type": "hardlink",
+        "sha256": "216ff331f174a44b17a1df6de3ed32ef03b9215334ee122fa5b06da40176784e",
+        "sha256_in_prefix": "216ff331f174a44b17a1df6de3ed32ef03b9215334ee122fa5b06da40176784e",
+        "size_in_bytes": 9933
+      },
+      {
+        "_path": "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/command.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/exporter.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/plugins.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/poetry_plugin_export/__pycache__/walker.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5e0c0f59fcc0d7859cb5ee66249c4d50234201813fe471a57cb95db1107723b4",
+  "size": 15977,
+  "subdir": "noarch",
+  "timestamp": 1681749097000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/poetry-plugin-export-1.3.1-pyhd8ed1ab_0.conda",
+  "version": "1.3.1"
+}

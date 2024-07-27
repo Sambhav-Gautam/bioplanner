@@ -1,0 +1,283 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "msgpack-python >=0.5.2",
+    "python >=3.6",
+    "requests >=2.16.0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/cachecontrol-0.12.14-pyhd8ed1ab_0",
+  "files": [
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/LICENSE.txt",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/METADATA",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/RECORD",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/WHEEL",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/CacheControl-0.12.14.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/cachecontrol/__init__.py",
+    "lib/python3.11/site-packages/cachecontrol/_cmd.py",
+    "lib/python3.11/site-packages/cachecontrol/adapter.py",
+    "lib/python3.11/site-packages/cachecontrol/cache.py",
+    "lib/python3.11/site-packages/cachecontrol/caches/__init__.py",
+    "lib/python3.11/site-packages/cachecontrol/caches/file_cache.py",
+    "lib/python3.11/site-packages/cachecontrol/caches/redis_cache.py",
+    "lib/python3.11/site-packages/cachecontrol/compat.py",
+    "lib/python3.11/site-packages/cachecontrol/controller.py",
+    "lib/python3.11/site-packages/cachecontrol/filewrapper.py",
+    "lib/python3.11/site-packages/cachecontrol/heuristics.py",
+    "lib/python3.11/site-packages/cachecontrol/serialize.py",
+    "lib/python3.11/site-packages/cachecontrol/wrapper.py",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/_cmd.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/adapter.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/cache.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/caches/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/caches/__pycache__/file_cache.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/caches/__pycache__/redis_cache.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/compat.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/controller.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/filewrapper.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/heuristics.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/serialize.cpython-311.pyc",
+    "lib/python3.11/site-packages/cachecontrol/__pycache__/wrapper.cpython-311.pyc",
+    "bin/doesitcache"
+  ],
+  "fn": "cachecontrol-0.12.14-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/conda/pkgs/cachecontrol-0.12.14-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "db23395890ef31be3c2320fb41b665b0",
+  "name": "cachecontrol",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/conda/pkgs/cachecontrol-0.12.14-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b",
+        "sha256_in_prefix": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b",
+        "size_in_bytes": 558
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "671e2859445e88a7703f66e3076d34ca7fc321d91817bbad0b11d8c83f8b69e7",
+        "sha256_in_prefix": "671e2859445e88a7703f66e3076d34ca7fc321d91817bbad0b11d8c83f8b69e7",
+        "size_in_bytes": 2181
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9a254cec8486437e63843ac126aa884f97c67af35ac2a36c89a04b3c96c0ae1e",
+        "sha256_in_prefix": "9a254cec8486437e63843ac126aa884f97c67af35ac2a36c89a04b3c96c0ae1e",
+        "size_in_bytes": 2705
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "6bece9151209cceab941fba10736e1880d5e1d3ccd0899fc39d46f85d357d119",
+        "sha256_in_prefix": "6bece9151209cceab941fba10736e1880d5e1d3ccd0899fc39d46f85d357d119",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d7fd8d8b3432a11e969f0952d0ea5811204506ea58da7e111b838daf801f4c8d",
+        "sha256_in_prefix": "d7fd8d8b3432a11e969f0952d0ea5811204506ea58da7e111b838daf801f4c8d",
+        "size_in_bytes": 114
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "4b29dc510bec4a436a7103aef2e136fc3f0ae5deffd9f476715eed48968cae17",
+        "sha256_in_prefix": "4b29dc510bec4a436a7103aef2e136fc3f0ae5deffd9f476715eed48968cae17",
+        "size_in_bytes": 55
+      },
+      {
+        "_path": "site-packages/CacheControl-0.12.14.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "bc6616ce96dede1ea091a915e1fee208adb1dcac8ade8324579a5ee6fdb9f9de",
+        "sha256_in_prefix": "bc6616ce96dede1ea091a915e1fee208adb1dcac8ade8324579a5ee6fdb9f9de",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "site-packages/cachecontrol/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "032d4965b8da5997e428d569c6b2290668ac61d3fe9b0f949ee52ae96dfd5e50",
+        "sha256_in_prefix": "032d4965b8da5997e428d569c6b2290668ac61d3fe9b0f949ee52ae96dfd5e50",
+        "size_in_bytes": 465
+      },
+      {
+        "_path": "site-packages/cachecontrol/_cmd.py",
+        "path_type": "hardlink",
+        "sha256": "1e314974680f38bb2f4bfe5ef01bea62bc1e5c98f5811edd4aca820755f6e2ec",
+        "sha256_in_prefix": "1e314974680f38bb2f4bfe5ef01bea62bc1e5c98f5811edd4aca820755f6e2ec",
+        "size_in_bytes": 1326
+      },
+      {
+        "_path": "site-packages/cachecontrol/adapter.py",
+        "path_type": "hardlink",
+        "sha256": "76ef02b072adb4058bf7ea56992bf23435731eb1fea9f8923a0a3a7dc6a733ed",
+        "sha256_in_prefix": "76ef02b072adb4058bf7ea56992bf23435731eb1fea9f8923a0a3a7dc6a733ed",
+        "size_in_bytes": 5021
+      },
+      {
+        "_path": "site-packages/cachecontrol/cache.py",
+        "path_type": "hardlink",
+        "sha256": "4edcb8e5f3a31f8d1f0a89531a4a8a42f41099b62c32993e9c2c9f2dcbf6bc6e",
+        "sha256_in_prefix": "4edcb8e5f3a31f8d1f0a89531a4a8a42f41099b62c32993e9c2c9f2dcbf6bc6e",
+        "size_in_bytes": 1535
+      },
+      {
+        "_path": "site-packages/cachecontrol/caches/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "87ed5c5263b3ea684bb234e33ab27c88f7a3a4674b0b21b89734dfb5f199bcb8",
+        "sha256_in_prefix": "87ed5c5263b3ea684bb234e33ab27c88f7a3a4674b0b21b89734dfb5f199bcb8",
+        "size_in_bytes": 242
+      },
+      {
+        "_path": "site-packages/cachecontrol/caches/file_cache.py",
+        "path_type": "hardlink",
+        "sha256": "1a97b1704dbd2e863831a6703d44dc50165a0dd72c8eac8bc591739e4f076ebe",
+        "sha256_in_prefix": "1a97b1704dbd2e863831a6703d44dc50165a0dd72c8eac8bc591739e4f076ebe",
+        "size_in_bytes": 5271
+      },
+      {
+        "_path": "site-packages/cachecontrol/caches/redis_cache.py",
+        "path_type": "hardlink",
+        "sha256": "6c628053420e709505994fdb941237c3acca8f52f82327c33e62cdcb38e9ff2e",
+        "sha256_in_prefix": "6c628053420e709505994fdb941237c3acca8f52f82327c33e62cdcb38e9ff2e",
+        "size_in_bytes": 1021
+      },
+      {
+        "_path": "site-packages/cachecontrol/compat.py",
+        "path_type": "hardlink",
+        "sha256": "24e54ac8889ba7c9cdab78c06efee75c1b0d3ad5c754428f879bbcaf6a8b195a",
+        "sha256_in_prefix": "24e54ac8889ba7c9cdab78c06efee75c1b0d3ad5c754428f879bbcaf6a8b195a",
+        "size_in_bytes": 730
+      },
+      {
+        "_path": "site-packages/cachecontrol/controller.py",
+        "path_type": "hardlink",
+        "sha256": "adcd473d204f482f9da6be7fa7b200ab553e988d00671f5619bf7f779d5690d1",
+        "sha256_in_prefix": "adcd473d204f482f9da6be7fa7b200ab553e988d00671f5619bf7f779d5690d1",
+        "size_in_bytes": 16684
+      },
+      {
+        "_path": "site-packages/cachecontrol/filewrapper.py",
+        "path_type": "hardlink",
+        "sha256": "5f804040e3b6e8634e47b9c7fdf853cc07deb9cb76ac141cc7fd79332141a5cb",
+        "sha256_in_prefix": "5f804040e3b6e8634e47b9c7fdf853cc07deb9cb76ac141cc7fd79332141a5cb",
+        "size_in_bytes": 3946
+      },
+      {
+        "_path": "site-packages/cachecontrol/heuristics.py",
+        "path_type": "hardlink",
+        "sha256": "f24032b992d20b2108810afabdb5307e1a6a83da30b3898cd0857a0d66b37af2",
+        "sha256_in_prefix": "f24032b992d20b2108810afabdb5307e1a6a83da30b3898cd0857a0d66b37af2",
+        "size_in_bytes": 4154
+      },
+      {
+        "_path": "site-packages/cachecontrol/serialize.py",
+        "path_type": "hardlink",
+        "sha256": "d9a95068b6c0df7a8b456f0f412273437b838a4d6f54c7fc81f9e8233c3c781f",
+        "sha256_in_prefix": "d9a95068b6c0df7a8b456f0f412273437b838a4d6f54c7fc81f9e8233c3c781f",
+        "size_in_bytes": 7216
+      },
+      {
+        "_path": "site-packages/cachecontrol/wrapper.py",
+        "path_type": "hardlink",
+        "sha256": "5f7f8a319db41e8dd5b6ac95697725a5e429173a24479344f2d6527ef295681f",
+        "sha256_in_prefix": "5f7f8a319db41e8dd5b6ac95697725a5e429173a24479344f2d6527ef295681f",
+        "size_in_bytes": 774
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/_cmd.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/adapter.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/cache.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/caches/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/caches/__pycache__/file_cache.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/caches/__pycache__/redis_cache.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/compat.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/controller.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/filewrapper.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/heuristics.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/serialize.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cachecontrol/__pycache__/wrapper.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/doesitcache",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "99b68d1e9b1e148c9dfa5886cdd9b6082e968328658ba71a5b76cdc93a92ef02",
+  "size": 23517,
+  "subdir": "noarch",
+  "timestamp": 1686152353000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cachecontrol-0.12.14-pyhd8ed1ab_0.conda",
+  "version": "0.12.14"
+}

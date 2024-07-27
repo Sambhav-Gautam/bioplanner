@@ -1,0 +1,176 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "build <0"
+  ],
+  "depends": [
+    "colorama",
+    "importlib-metadata >=0.22",
+    "packaging >=19.0",
+    "pyproject_hooks",
+    "python >=3.7",
+    "tomli >=1.1.0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/python-build-0.10.0-pyhd8ed1ab_1",
+  "files": [
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/build-0.10.0.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/build/__init__.py",
+    "lib/python3.11/site-packages/build/__main__.py",
+    "lib/python3.11/site-packages/build/env.py",
+    "lib/python3.11/site-packages/build/py.typed",
+    "lib/python3.11/site-packages/build/util.py",
+    "lib/python3.11/site-packages/build/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/build/__pycache__/__main__.cpython-311.pyc",
+    "lib/python3.11/site-packages/build/__pycache__/env.cpython-311.pyc",
+    "lib/python3.11/site-packages/build/__pycache__/util.cpython-311.pyc",
+    "bin/python-build",
+    "bin/pyproject-build"
+  ],
+  "fn": "python-build-0.10.0-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/conda/pkgs/python-build-0.10.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "0ab47ce574f6a8bcb9f2076436e7fedb",
+  "name": "python-build",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/conda/pkgs/python-build-0.10.0-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "aaf9a29ca5907971ccf07de025375db34539a8d5eeebce20b46099805722106f",
+        "sha256_in_prefix": "aaf9a29ca5907971ccf07de025375db34539a8d5eeebce20b46099805722106f",
+        "size_in_bytes": 1113
+      },
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "26304e778c497f14965179ea8723c2cfe468ae2b93ac345fba2b2aa6c441e8bf",
+        "sha256_in_prefix": "26304e778c497f14965179ea8723c2cfe468ae2b93ac345fba2b2aa6c441e8bf",
+        "size_in_bytes": 4071
+      },
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "87d9ed5ef27a90eea6fc90471b4ea4e660125c60c9d6e3e4ff29f0838e5b9c41",
+        "sha256_in_prefix": "87d9ed5ef27a90eea6fc90471b4ea4e660125c60c9d6e3e4ff29f0838e5b9c41",
+        "size_in_bytes": 1282
+      },
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ad282afc9a4717d7c7475971e77ab083fd7ed8bca9644fea99cb976d552af78f",
+        "sha256_in_prefix": "ad282afc9a4717d7c7475971e77ab083fd7ed8bca9644fea99cb976d552af78f",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0bf883d70f52b2bf971fea3483d9b10897343aeeda95fe787ff8ed87e456b592",
+        "sha256_in_prefix": "0bf883d70f52b2bf971fea3483d9b10897343aeeda95fe787ff8ed87e456b592",
+        "size_in_bytes": 108
+      },
+      {
+        "_path": "site-packages/build-0.10.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "3186db33a24662e6e02234e070ba4d219a5cd0f59b8bd991016ed586d733952f",
+        "sha256_in_prefix": "3186db33a24662e6e02234e070ba4d219a5cd0f59b8bd991016ed586d733952f",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/build/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0a34eea099caff4cbb76de7fbb8014aca2374b4e925c18f209d1fabbc7134920",
+        "sha256_in_prefix": "0a34eea099caff4cbb76de7fbb8014aca2374b4e925c18f209d1fabbc7134920",
+        "size_in_bytes": 19190
+      },
+      {
+        "_path": "site-packages/build/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "cb975df225816d8f2f0efe77c87a52108b8a268f546bee1745f172b5fade2620",
+        "sha256_in_prefix": "cb975df225816d8f2f0efe77c87a52108b8a268f546bee1745f172b5fade2620",
+        "size_in_bytes": 12200
+      },
+      {
+        "_path": "site-packages/build/env.py",
+        "path_type": "hardlink",
+        "sha256": "566cfaba9d16f95973fe5a0bdcbc019e5fd699cfb67f4a0fe2926fc7822a1282",
+        "sha256_in_prefix": "566cfaba9d16f95973fe5a0bdcbc019e5fd699cfb67f4a0fe2926fc7822a1282",
+        "size_in_bytes": 12636
+      },
+      {
+        "_path": "site-packages/build/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/build/util.py",
+        "path_type": "hardlink",
+        "sha256": "e9be5c5f9940b110f500cd5140cc415258ae1197f4b7d1b2a67b57b32f1c0960",
+        "sha256_in_prefix": "e9be5c5f9940b110f500cd5140cc415258ae1197f4b7d1b2a67b57b32f1c0960",
+        "size_in_bytes": 1632
+      },
+      {
+        "_path": "lib/python3.11/site-packages/build/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/build/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/build/__pycache__/env.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/build/__pycache__/util.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/python-build",
+        "path_type": "unix_python_entry_point"
+      },
+      {
+        "_path": "bin/pyproject-build",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4c2cd519c85aa8b8e584723ca5f452aa5941d18374470adebfe73bf30fd27573",
+  "size": 21373,
+  "subdir": "noarch",
+  "timestamp": 1682868818000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/python-build-0.10.0-pyhd8ed1ab_1.conda",
+  "version": "0.10.0"
+}
