@@ -8,8 +8,6 @@ readme = "README.md"
 homepage = "https://github.com/bioplanner/bioplanner"
 repository = "https://github.com/bioplanner/bioplanner"
 
-
-
 [tool.poetry.dependencies]
 python = ">=3.10, <3.12"
 numpy = "^1.24.0"
